@@ -7,3 +7,7 @@ http://www.phpbook.jp/smarty/
 PHP 逆引きレシピ
 
 * PHPをゴリゴリ進める際に必要、（会社にある）
+
+LSの見方
+
+*コマンド(venusで主に使用）
