@@ -1,1 +1,3 @@
-aaa
+Smartyの使い方
+http://www.phpbook.jp/smarty/
+・SmartyはPHPで利用できるテンプレートエンジンです。
