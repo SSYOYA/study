@@ -16,11 +16,11 @@ LSの見方
 
 覚える事の順序
 
-*PHP
+* PHP
 
-*smarty
+* smarty
 
-*SQL
+* SQL
 
-*コマンド
+* コマンド
 
